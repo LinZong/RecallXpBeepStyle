@@ -1,0 +1,15 @@
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\bin\x64\Release\EventExample.exe.config
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\bin\x64\Release\EventExample.exe
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\bin\x64\Release\EventExample.pdb
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\x64\Release\RecallXpBeepStyle.csprojResolveAssemblyReference.cache
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\x64\Release\MainWindow.g.cs
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\x64\Release\App.g.cs
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\x64\Release\EventExample_MarkupCompile.cache
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\x64\Release\EventExample_MarkupCompile.lref
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\x64\Release\MainWindow.baml
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\x64\Release\EventExample.g.resources
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\x64\Release\EventExample.Properties.Resources.resources
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\x64\Release\RecallXpBeepStyle.csproj.GenerateResource.Cache
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\x64\Release\RecallXpBeepStyle.csproj.CoreCompileInputs.cache
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\x64\Release\EventExample.exe
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\x64\Release\EventExample.pdb

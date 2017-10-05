@@ -1,0 +1,18 @@
+﻿<Window x:Class="EventExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EventExample"
+        mc:Ignorable="d"
+        Title="召唤机箱Speaker" Height="402.241" Width="572.661" ResizeMode="NoResize">
+    <Grid>
+        <Label x:Name="SelfIntroduction"  Content="这是一个可以在64位的Win7及更新版本系统下复活您的机箱蜂鸣器的工具" VerticalAlignment="Top" Margin="5,10,10,0" Height="28" HorizontalAlignment="Center" Width="502" FontSize="14" HorizontalContentAlignment="Center"/>
+        <Label x:Name="DriverStatus" Content="Checking your beepxp.sys drivers" VerticalAlignment="Top" Margin="5,38,10,0" Height="28" HorizontalAlignment="Center" Width="502" FontSize="14" HorizontalContentAlignment="Center"/>
+        <Button x:Name="TestBeep" Content="哔——?" Margin="12,110,426,0" VerticalAlignment="Top" Click="TestABeep"/>
+        <Button x:Name="InstallDrv" Content="装个驱动?" Margin="222,110,217,0" VerticalAlignment="Top" Click="InstallADrv"/>
+        <Button x:Name="UninstDrv" Content="卸载驱动" Margin="422,110,18,0" VerticalAlignment="Top" Click="UninstallADrv"/>
+
+        <Label x:Name="CMDLINE" Content="这里大概会出现一些老少咸宜的程序运行时的状态。" Margin="10,141,10,0" VerticalAlignment="Top" RenderTransformOrigin="-0.949,-2.339" Height="222" FontSize="14"/>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\bin\Release\EventExample.exe.config
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\bin\Release\EventExample.exe
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\bin\Release\EventExample.pdb
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Release\MainWindow.g.cs
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Release\App.g.cs
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Release\EventExample_MarkupCompile.cache
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Release\EventExample_MarkupCompile.lref
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Release\MainWindow.baml
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Release\EventExample.g.resources
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Release\EventExample.Properties.Resources.resources
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Release\EventExample.csproj.GenerateResource.Cache
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Release\EventExample.csproj.CoreCompileInputs.cache
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Release\EventExample.exe
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Release\EventExample.pdb
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Release\EventExample.csprojResolveAssemblyReference.cache

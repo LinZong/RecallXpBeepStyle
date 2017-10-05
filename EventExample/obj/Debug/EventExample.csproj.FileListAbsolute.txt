@@ -1,0 +1,15 @@
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\bin\Debug\EventExample.exe.config
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\bin\Debug\EventExample.exe
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\bin\Debug\EventExample.pdb
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Debug\EventExample.csprojResolveAssemblyReference.cache
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Debug\MainWindow.g.cs
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Debug\App.g.cs
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Debug\EventExample_MarkupCompile.cache
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Debug\EventExample_MarkupCompile.lref
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Debug\MainWindow.baml
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Debug\EventExample.g.resources
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Debug\EventExample.Properties.Resources.resources
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Debug\EventExample.csproj.GenerateResource.Cache
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Debug\EventExample.csproj.CoreCompileInputs.cache
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Debug\EventExample.exe
+C:\Users\NemesissLin\source\repos\EventExample\EventExample\obj\Debug\EventExample.pdb
