@@ -3,7 +3,6 @@ using System.IO;
 using System.Windows;
 using System.Runtime.InteropServices;
 using System.Diagnostics;
-
 namespace EventExample
 {
     /// <summary>
@@ -14,7 +13,6 @@ namespace EventExample
         int ClickCounter = 0;
         public MainWindow()
         {
-            
             InitializeComponent();
             CheckDriverStatus();
         }
@@ -113,8 +111,8 @@ namespace EventExample
         private void UninstallADrv(object sender, RoutedEventArgs e)
         {
             string DriverPath = Environment.GetFolderPath(Environment.SpecialFolder.System) + @"\drivers\beepxp.sys";
-            this.CMDLINE.Content = ExecuteCMD("sc config BeepXP start= demand && sc config Beep start= auto");
-            File.Delete(DriverPath);
+            this.CMDLINE.Content = ExecuteCMD("RUNDLL32.EXE SETUPAPI.DLL,InstallHinfSection DefaultUninstall 132 "+Environment.CurrentDirectory+"\\beepxp.inf && sc config Beep start= auto");
+            
             this.DriverStatus.Content = "看到2个SUCCESS就可以重启系统了";
         }
     }
